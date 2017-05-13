@@ -1,5 +1,6 @@
 # MacChat
-Mac-Mac P2P Chat via SSH (Terminal-GUI chat) bash script app. 
+Mac-Mac P2P Chat via SSH terminal app.
+Offers Terminal-GUI chat. Terminal (/terminal emulator) on local end. GUI on remote end (Native macOS Dialog using Applescript). 
 
 Features:
 - P2P Chat via SSH

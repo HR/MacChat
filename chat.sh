@@ -15,6 +15,8 @@ function showOpts {
   echo "     -t  Recipient name"
   echo "     -f  Sender name"
   echo "     -l  Log chat"
+  echo ""
+  echo "Type \"exit\" in the chat to end the chat."
 }
 # Get args
 while getopts 't:f:lh' flag; do
